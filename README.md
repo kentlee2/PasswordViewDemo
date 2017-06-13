@@ -1,5 +1,4 @@
-# PasswordViewDemo
-android仿支付宝支付密码和自定义键盘
+
 # PasswordViewDemo
 android仿支付宝支付密码和自定义键盘
 先看效果图：
