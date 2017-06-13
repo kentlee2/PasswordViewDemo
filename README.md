@@ -1,6 +1,7 @@
 
 # PasswordViewDemo
 android仿支付宝支付密码和自定义键盘
+<<<<<<< HEAD
 先看效果图：
 ![](http://i.imgur.com/Ra4uvfl.png)
 
@@ -41,3 +42,4 @@ android仿支付宝支付密码和自定义键盘
             }
         });
     }
+
