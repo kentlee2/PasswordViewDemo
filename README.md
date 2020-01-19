@@ -1,6 +1,6 @@
 # PasswordViewDemo
 android仿支付宝支付密码和自定义键盘
-效果图：http://img.blog.csdn.net/20160408182700801?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center
+效果图：https://github.com/kentlee2/PasswordViewDemo/blob/master/20160408182700801.png
 使用方法：
    passView = new PassView(this);  
    passView.setOnFinishInput(this);  //输入完成最后一个数字监听
