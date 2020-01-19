@@ -11,7 +11,9 @@ android仿支付宝支付密码和自定义键盘
         Toast.makeText(getApplicationContext(), passView.getStrPassword(), Toast.LENGTH_SHORT).show();  
           
     }  
-    核心代码（PassView.java）：
+    
+    
+    核心代码（PassView.java）：
     	  //设置监听方法，在第6位输入完成后触发
     public void setOnFinishInput(final OnPasswordInputFinish pass) {
         tvList[5].addTextChangedListener(new TextWatcher() {
