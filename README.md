@@ -5,7 +5,9 @@ android仿支付宝支付密码和自定义键盘
 
 使用方法：
    passView = new PassView(this);  
-   passView.setOnFinishInput(this);  //输入完成最后一个数字监听
+   passView.setOnFinishInput(this); 
+   
+   //输入完成最后一个数字监听
   @Override  
     public void inputFinish() {  
         Toast.makeText(getApplicationContext(), passView.getStrPassword(), Toast.LENGTH_SHORT).show();  
