@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\workspace\\FlutterProject\\new_gm\\PasswordViewDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\workspace\\FlutterProject\\new_gm\\PasswordViewDemo-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\FlutterProject\\new_gm\\PasswordViewDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sex_boxline_bg.png.flat",
+        "source": "D:\\workspace\\FlutterProject\\new_gm\\PasswordViewDemo-master\\app\\src\\main\\res\\drawable-hdpi\\sex_boxline_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\FlutterProject\\new_gm\\PasswordViewDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hobby_item_normal_bg.9.png.flat",
+        "source": "D:\\workspace\\FlutterProject\\new_gm\\PasswordViewDemo-master\\app\\src\\main\\res\\drawable-hdpi\\hobby_item_normal_bg.9.png"
+    },
+    {
+        "merged": "D:\\workspace\\FlutterProject\\new_gm\\PasswordViewDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\workspace\\FlutterProject\\new_gm\\PasswordViewDemo-master\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\FlutterProject\\new_gm\\PasswordViewDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_paypassword.xml.flat",
+        "source": "D:\\workspace\\FlutterProject\\new_gm\\PasswordViewDemo-master\\app\\src\\main\\res\\layout\\item_paypassword.xml"
+    },
+    {
+        "merged": "D:\\workspace\\FlutterProject\\new_gm\\PasswordViewDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\workspace\\FlutterProject\\new_gm\\PasswordViewDemo-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\FlutterProject\\new_gm\\PasswordViewDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_gride.xml.flat",
+        "source": "D:\\workspace\\FlutterProject\\new_gm\\PasswordViewDemo-master\\app\\src\\main\\res\\drawable\\selector_gride.xml"
+    },
+    {
+        "merged": "D:\\workspace\\FlutterProject\\new_gm\\PasswordViewDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\workspace\\FlutterProject\\new_gm\\PasswordViewDemo-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\workspace\\FlutterProject\\new_gm\\PasswordViewDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\workspace\\FlutterProject\\new_gm\\PasswordViewDemo-master\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\workspace\\FlutterProject\\new_gm\\PasswordViewDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_edittext_bg_nor.9.png.flat",
+        "source": "D:\\workspace\\FlutterProject\\new_gm\\PasswordViewDemo-master\\app\\src\\main\\res\\drawable-hdpi\\edittext_bg_nor.9.png"
+    },
+    {
+        "merged": "D:\\workspace\\FlutterProject\\new_gm\\PasswordViewDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sex_box_bg.9.png.flat",
+        "source": "D:\\workspace\\FlutterProject\\new_gm\\PasswordViewDemo-master\\app\\src\\main\\res\\drawable-hdpi\\sex_box_bg.9.png"
+    },
+    {
+        "merged": "D:\\workspace\\FlutterProject\\new_gm\\PasswordViewDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_face_del_icon.png.flat",
+        "source": "D:\\workspace\\FlutterProject\\new_gm\\PasswordViewDemo-master\\app\\src\\main\\res\\drawable-hdpi\\face_del_icon.png"
+    }
+]

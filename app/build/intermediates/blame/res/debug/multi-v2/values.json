@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\workspace\\FlutterProject\\new_gm\\PasswordViewDemo-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\workspace\\FlutterProject\\new_gm\\PasswordViewDemo-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "D:\\workspace\\FlutterProject\\new_gm\\PasswordViewDemo-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "5,3,4,8,9,7,6",
+                        "startColumns": "4,4,4,5,4,5,5",
+                        "startOffsets": "152,56,99,296,338,253,206",
+                        "endColumns": "52,42,52,42,51,42,46",
+                        "endOffsets": "200,94,147,333,385,290,247"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "169,222,265,318,360,412,454",
+                        "endColumns": "52,42,52,41,51,41,45",
+                        "endOffsets": "217,260,313,355,407,449,495"
+                    }
+                },
+                {
+                    "source": "D:\\workspace\\FlutterProject\\new_gm\\PasswordViewDemo-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "7,17,29,21",
+                        "startColumns": "4,4,5,4",
+                        "startOffsets": "251,601,1173,766",
+                        "endLines": "14,19,34,27",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "560,758,1433,1164"
+                    },
+                    "to": {
+                        "startLines": "11,19,22,28",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "500,810,970,1230",
+                        "endLines": "18,21,27,34",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "805,965,1225,1622"
+                    }
+                }
+            ]
+        }
+    ]
+}
